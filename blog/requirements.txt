@@ -1,0 +1,5 @@
+Flask
+SQLAlchemy
+Flask-RESTful
+werkzeug
+# mysql-connector-python
