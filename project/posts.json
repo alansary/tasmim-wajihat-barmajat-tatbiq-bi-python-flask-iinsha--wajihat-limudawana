@@ -1,0 +1,101 @@
+[
+    {
+        "title": "What is Lorem Ipsum?",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "The History of Coffee",
+        "text": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, Comoros, Mauritius, and Réunion in the Indian Ocean.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "Exploring the Grand Canyon",
+        "text": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "The Art of Photography",
+        "text": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "The Science of Space Travel",
+        "text": "Space travel is the act of traveling into or through outer space. Space travel can be done with or without humans on board. Crewed space travel is when astronauts fly on the spacecraft and work in space.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "The World of Virtual Reality",
+        "text": "Virtual reality (VR) is a simulated experience that can be similar to or completely different from the real world. Applications of virtual reality include entertainment (e.g. video games), education (e.g. medical or military training) and business (e.g. virtual meetings).",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "Cooking Around the World",
+        "text": "Cooking is the art, technology, science and craft of preparing food for consumption. Cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves, to baking in various types of ovens, reflecting unique environmental, economic, and cultural traditions and trends.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "The Wonders of Wildlife",
+        "text": "Wildlife traditionally refers to undomesticated animal species, but has come to include all plants, fungi, and other organisms that grow or live wild in an area without being introduced by humans. Wildlife can be found in all ecosystems. Deserts, forests, rainforests, plains, grasslands, and other areas, including the most developed urban areas, all have distinct forms of wildlife.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "Ancient Civilizations: Egypt",
+        "text": "Ancient Egypt was a civilization of ancient North Africa, concentrated along the lower reaches of the Nile River in the place that is now the country Egypt. Ancient Egyptian civilization followed prehistoric Egypt and coalesced around 3100 BC (according to conventional Egyptian chronology) with the political unification of Upper and Lower Egypt under Menes (often identified with Narmer).",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "The World of Robotics",
+        "text": "Robotics is an interdisciplinary research area at the interface of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    },
+    {
+        "title": "Discovering Underwater Life",
+        "text": "Marine biology is the scientific study of marine life, organisms in the sea. Given that in biology many phyla, families and genera have some species that live in the sea and others that live on land, marine biology classifies species based on the environment rather than on taxonomy.",
+        "images": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/300/400"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4idQbwsvtUo"
+    }
+]
